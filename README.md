@@ -1,5 +1,17 @@
 # Luxury Restaurant
 
+Locally Run Your Computer:
+
+Open Terminal
+
+1. First Type
+   "npm install"
+
+2. Second Type
+   "npm run dev"
+
+   Happy Coding.......
+
 Live site:
 
 - [Luxury Restaurant](https://luxury-restaurants.web.app/)
